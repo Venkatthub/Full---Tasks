@@ -1,8 +1,9 @@
-/Collections/
 /collections/
-/accessmodifiers/
-/arrays/
+/furnitureshowroom/
+/library_management/
+/oops/
+/operators/
 /serialization/
-/LambdaExpression.class
-/operation.class
-/Mathoperation.class
+/stringclasses/
+/vendingmachine/
+/wrapper_classes/
