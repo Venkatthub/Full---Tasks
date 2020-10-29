@@ -8,6 +8,7 @@ public class Instrument {
 
 		MusicInstrument mi = new MusicInstrument();
 
+		mi.show();
 		mi.play();
 
 		MusicInstrument kl = new Keyboard();

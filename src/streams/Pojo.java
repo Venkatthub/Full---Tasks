@@ -1,0 +1,25 @@
+package streams;
+
+public class Pojo {
+
+	String name;
+	int id;
+
+	Pojo(String name, int id) {
+		this.name = name;
+		this.id = id;
+	}
+
+	public String getName() {
+
+		return name;
+
+	}
+
+	public int getId() {
+
+		return id;
+
+	}
+
+}
