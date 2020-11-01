@@ -1,5 +1,6 @@
 package collections.arraylist.exceptions;
 
+@SuppressWarnings("serial")
 public class NotFoundException extends RuntimeException {
 
 	public NotFoundException(String str) {
@@ -11,5 +12,3 @@ public class NotFoundException extends RuntimeException {
 		return "Entered Book or BuyerName dosen't exist in out system";
 	}
 }
-
-

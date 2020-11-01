@@ -1,7 +1,5 @@
 package arrays;
 
-import accessmodifiers.check.Night;
-
 public class BalacingArray {
 
 	/*
